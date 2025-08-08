@@ -1,0 +1,12 @@
+/src
+├── /components
+│   ├── MapComponent.js
+│   └── ClubPopup.js
+├── /lib
+│   ├── firebase.js
+│   └── mapbox.js
+├── /pages
+│   ├── index.js
+│   └── _app.js
+├── /styles
+│   └── globals.css
